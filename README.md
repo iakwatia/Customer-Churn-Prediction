@@ -1,5 +1,8 @@
-# Customer-Churn-Prediction
+### Customer-Churn-Prediction
 A Machine Learning classification project on customer attrition
+
+Telecommunications sector is concerned with retaining customers due to the high costs associated with acquiring new ones. Customer churn, or turnover, occurs when customers cease their subscriptions or services. This can result in lost revenue and necessitate additional marketing expenditures to attract new clients.
+To address this challenge, the project involves leveraging data analytics techniques and machine learning to analyze service usage patterns and predict customer churn
 
 ### Data Understanding
 
@@ -44,3 +47,5 @@ MonthlyCharges -- The amount charged to the customer monthly
 TotalCharges -- The total amount charged to the customer
 
 Churn -- Whether the customer churned or not (Yes or No)
+
+![alt text](image.png)
